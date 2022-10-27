@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1HENgbwjvVGwlAGjEmx6m0gGkQ5Y8DyXN5EA8RGQkYx9JQgV8YUmggbbH0U8p2Ze2MKd9YhfL35vDYaM86FVA==",
+  "success": true,
+  "projectFilePath": "E:\\gitlab\\Asgard\\HOJTimeCardValidation\\HOJTimeCardValidation\\HOJTimeCardValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azure\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\azure\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\azure\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
